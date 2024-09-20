@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Documentos\practicas-c#\herencia\bin\Debug\net8.0\herencia.exe
+C:\Users\Dell\OneDrive\Documentos\practicas-c#\herencia\bin\Debug\net8.0\herencia.deps.json
+C:\Users\Dell\OneDrive\Documentos\practicas-c#\herencia\bin\Debug\net8.0\herencia.runtimeconfig.json
+C:\Users\Dell\OneDrive\Documentos\practicas-c#\herencia\bin\Debug\net8.0\herencia.dll
+C:\Users\Dell\OneDrive\Documentos\practicas-c#\herencia\bin\Debug\net8.0\herencia.pdb
+C:\Users\Dell\OneDrive\Documentos\practicas-c#\herencia\obj\Debug\net8.0\herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Documentos\practicas-c#\herencia\obj\Debug\net8.0\herencia.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Documentos\practicas-c#\herencia\obj\Debug\net8.0\herencia.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Documentos\practicas-c#\herencia\obj\Debug\net8.0\herencia.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Documentos\practicas-c#\herencia\obj\Debug\net8.0\herencia.sourcelink.json
+C:\Users\Dell\OneDrive\Documentos\practicas-c#\herencia\obj\Debug\net8.0\herencia.dll
+C:\Users\Dell\OneDrive\Documentos\practicas-c#\herencia\obj\Debug\net8.0\refint\herencia.dll
+C:\Users\Dell\OneDrive\Documentos\practicas-c#\herencia\obj\Debug\net8.0\herencia.pdb
+C:\Users\Dell\OneDrive\Documentos\practicas-c#\herencia\obj\Debug\net8.0\herencia.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Documentos\practicas-c#\herencia\obj\Debug\net8.0\ref\herencia.dll
