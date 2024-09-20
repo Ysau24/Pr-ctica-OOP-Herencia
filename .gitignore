@@ -1,6 +1,4 @@
-polimorfismo.deps.json
-polimorfismo.dll
-polimorfismo.exe
-polimorfismo.pdb
-polimorfismo.runtimeconfig.json
-/obj
+polimorfismo/bin/
+polimorfismo/obj/
+herencia/bin/
+herencia/obj/
