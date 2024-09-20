@@ -1,2 +1,5 @@
-/bin
-/obj
+polimorfismo.deps.json
+polimorfismo.dll
+polimorfismo.exe
+polimorfismo.pdb
+polimorfismo.runtimeconfig.json
